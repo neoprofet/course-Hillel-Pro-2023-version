@@ -1,0 +1,7 @@
+package java_pro_homeworks.pr6.timetable.data;
+
+public enum Subject {
+    MATH, ERGONOMICS, DESIGN, PARALLEL_COMPUTING, ENGLISH,
+    FRENCH, OOP, DATA_BASES, HISTORY, BIOLOGY, PHYSICS, CHEMIST,
+    ITALY, LITERATURE, PAINTING, MUSIC
+}
